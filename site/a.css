@@ -31,6 +31,7 @@ border: #ffffff;
 align-items: center;
 justify-content: center;
 border: none;
+border-color: #ffffff;
 border-radius: 15%;
 color: white;
 padding: 16px 20px;
@@ -46,6 +47,12 @@ font-size: 25px;
 
 
 }
+
+
+  
+
+
+
 
 .button3 {
 align-items: center;
@@ -93,6 +100,7 @@ font-size: 20px;
 background-color: white; 
 color: black; 
 border: none;
+border-color: #ffffff;
 }
 
 .button1:hover {
