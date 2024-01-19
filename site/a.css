@@ -1,0 +1,116 @@
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px; 
+
+}
+
+.button-container90 {
+    display: flex;
+    justify-content: center;
+    margin-top: -90px; 
+
+}
+
+.faixa {
+height: 95px;
+background-color: #d9af7e;
+border: #d9af7e;
+}
+
+.faixa2 {
+height: 95px;
+background-color: #ffffff;
+border: #ffffff;
+}
+
+
+
+.button {
+align-items: center;
+justify-content: center;
+border: none;
+border-radius: 15%;
+color: white;
+padding: 16px 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 25x;
+margin: 15px 15px;
+transition-duration: 0.5s;
+cursor: pointer;
+font-size: 25px;
+
+
+
+}
+
+.button3 {
+align-items: center;
+justify-content: center;
+border: none;
+border-radius: 15%;
+color: white;
+padding: 1px 50px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 10x;
+margin: 15px 15px;
+transition-duration: 0.4s;
+cursor: pointer;
+font-size: 20px;
+
+
+
+}
+
+.button img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+.zoom-button {
+    display: inline-block;
+    overflow: hidden;
+    position: relative;
+    transition: transform 0.3s ease;
+}
+
+.zoom-button:hover {
+    transform: scale(1.2);
+}
+
+.zoom-button img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+.button1 {
+background-color: white; 
+color: black; 
+border: none;
+}
+
+.button1:hover {
+background-color: #d9af7e;
+color: rgb(0, 0, 0);
+}
+
+
+
+.button2 {
+background-color: #d9af7e;
+color: black;
+border: #d9af7e;
+}
+
+.button2:hover {
+background-color: white;
+color: #d9af7e;
+}
+
+
