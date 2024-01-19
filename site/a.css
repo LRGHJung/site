@@ -13,6 +13,12 @@
 
 }
 
+.button-container2 {
+    display: flex;
+    align-self: center;
+} 
+
+
 .faixa {
 height: 95px;
 background-color: #d9af7e;
@@ -121,4 +127,40 @@ background-color: white;
 color: #d9af7e;
 }
 
+.alinharD{
+    text-align: right;
+    margin-top: -39px;
+  font-family:'Franklin Gothic Medium';
+}
 
+.alinharE{
+text-align: left;
+margin-top: 0px;
+font-family:'Franklin Gothic Medium';
+}
+
+.div1 {
+    align-self: center;
+}
+
+.box {
+    align-self: center;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: #3498db;
+    margin: 50px;
+  }
+
+  .box2 {
+    align-self: center;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: #3498db;
+    margin: 90px;
+  }
+
+.container {
+    text-align: center;
+}
