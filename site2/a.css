@@ -1,0 +1,190 @@
+.caixa-email {
+    width: 600px;
+    background-color: #fff;
+    border: 1px solid #c5e3ff;
+    border-radius: 5px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    text-align: left;
+    
+}
+
+.campo-email {
+    flex-grow: 1;
+    width: 100%;
+    padding: 8px;
+    margin: 10px;
+    box-sizing: border-box;
+    border: none;
+    background-color: transparent;
+    outline: none;
+}
+
+
+
+.caixalogin{
+    width: 100%;
+    height: 700px;
+    margin: auto;
+    background-color: white;
+    border: 2px solid white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.textologin{
+    font-size: 30px;
+    margin-top: -670px;
+    padding-top: 50px;
+}
+
+.linha {
+    width: 100%;
+    height: 2px; 
+    background-color: #000000;
+    margin-top: -30px;
+     
+}
+
+.textocrasscnt{
+    padding-top: -50px ;
+    font-size: 25px;
+    font-family: Roboto;
+    color: #6899c3;
+}
+
+.imgemail {
+max-width: 40px;
+height: auto;
+margin-right: 10px;
+}
+
+
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px; 
+
+}
+
+.button-container90 {
+    display: flex;
+    justify-content: center;
+    margin-top: -90px; 
+
+}
+.button-container91 {
+    display: flex;
+    justify-content: center;
+    margin-top: 42px; 
+
+}
+
+.faixa {
+height: 95px;
+background-color: #d9af7e;
+border: #d9af7e;
+}
+
+.faixa2 {
+height: 95px;
+background-color: #ffffff;
+border: #ffffff;
+}
+
+
+
+.button {
+align-items: center;
+justify-content: center;
+border: none;
+border-color: #ffffff;
+border-radius: 15%;
+color: white;
+padding: 16px 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 25x;
+margin: 15px 15px;
+transition-duration: 0.5s;
+cursor: pointer;
+font-size: 25px;
+}
+
+
+
+.button3 {
+align-items: center;
+justify-content: center;
+border: none;
+border-radius: 15%;
+color: white;
+padding: 1px 50px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 10x;
+margin: 15px 15px;
+transition-duration: 0.4s;
+cursor: pointer;
+font-size: 20px;
+
+
+
+}
+
+.button img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+.zoom-button {
+    display: inline-block;
+    overflow: hidden;
+    position: relative;
+    transition: transform 0.3s ease;
+}
+
+.zoom-button:hover {
+    transform: scale(1.2);
+}
+
+.zoom-button img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+.button1 {
+background-color: white; 
+color: black; 
+border: none;
+border-color: #ffffff;
+}
+
+.button1:hover {
+background-color: #d9af7e;
+color: rgb(0, 0, 0);
+}
+
+
+
+.button2 {
+background-color: #d9af7e;
+color: black;
+border: #d9af7e;
+}
+
+.button2:hover {
+background-color: white;
+color: #d9af7e;
+}
+
+
