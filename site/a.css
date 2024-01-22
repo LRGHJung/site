@@ -186,6 +186,7 @@ font-family:'Franklin Gothic Medium';
 .colored-section {
     background-color: #d9af7e; /* Substitua pela cor desejada */
     max-width: 600px;
+    text-align: justify;
 
 }
 
