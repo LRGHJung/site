@@ -190,6 +190,9 @@ font-family:'Franklin Gothic Medium';
 
 }
 
+
+
+
 .alinhar {
     align-items: center;
 }
@@ -205,4 +208,11 @@ font-family:'Franklin Gothic Medium';
 
 footer div b:not(:last-child) {
     margin-right: 100px; /* Ajuste conforme necessário */
+}
+
+.right-div {
+    display: flex;
+    justify-content: flex-end;
+    background-color: #d9af7e; /* Cor de fundo da faixa, substitua pela cor desejada */
+
 }
