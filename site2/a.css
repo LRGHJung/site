@@ -1,3 +1,64 @@
+button{
+    margin-right: 90px;
+    border: none;   
+}
+
+.dropdown-btn {
+    display: inline-block;
+    padding: 10px;
+    background-color: #ffffff;
+    color: #575757;
+    border: 1px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    position: relative;
+    z-index: 1;
+  }
+
+  .arrow-down {
+    content: '\25BC'; 
+    font-size: 14px;
+    margin-left: 5px;
+  }
+
+  .options-list {
+    display: none;
+    position: absolute;
+    background-color: #d9af7e;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 1px;
+    margin-top: 1px;
+    list-style: none;
+    border: 2px solid black;
+    left: 60px;
+    z-index: 2;
+    top: 44px;
+
+  }
+
+  .option-item {
+      margin-bottom: 1px;
+      font-size: 20px;
+    padding: 20px;
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+  }
+  .option-item img {
+    margin-right: 50px; 
+    border-radius: 10%; 
+    align-self: flex-start; 
+  }
+
+  .option-item:hover {
+    background-color: #fff;
+    border-radius: 5px;
+  }
+
+
 .caixa-email {
     width: 600px;
     background-color: #fff;
