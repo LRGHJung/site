@@ -1,0 +1,19 @@
+.container {
+    text-align: center;
+}
+
+*{
+    margin-bottom: 0px;
+    background-color: lightgray;
+}
+
+.margem{
+    margin-left: -20px;
+}
+
+
+
+body {
+    background-color: lightgray;
+    
+}
