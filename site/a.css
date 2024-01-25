@@ -185,7 +185,7 @@ font-family:'Franklin Gothic Medium';
 
 .colored-section {
     background-color: #d9af7e; /* Substitua pela cor desejada */
-    max-width: 600px;
+    max-width: 1000px;
     text-align: justify;
 
 }
@@ -213,6 +213,28 @@ footer div b:not(:last-child) {
 .right-div {
     display: flex;
     justify-content: flex-end;
-    background-color: #d9af7e; /* Cor de fundo da faixa, substitua pela cor desejada */
+  
 
 }
+
+.caixa-lado-direito {
+    background-color: #d9af7e; /* Cor de fundo */
+    width: 600px; /* Largura da caixa */
+    height: 100px;
+    padding: 20px; /* Espaçamento interno */
+    float: right; /* Alinhamento à direita */
+}
+
+.container4 {
+    display: flex;
+    justify-content: space-between;}
+
+    .caixa-h3 {
+        background-color: #cccccc;
+        padding: 10px;
+      }
+
+      .h3{
+        display: block;
+    text-align: center;
+      }
