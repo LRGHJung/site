@@ -232,7 +232,6 @@ footer div b:not(:last-child) {
     .caixa-h3 {
         background-color: #cccccc;
         padding: 10px; 
-align-self: flex-start;
       }
 
       .h3{
